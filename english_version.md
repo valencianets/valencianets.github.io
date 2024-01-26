@@ -6,7 +6,7 @@ layout: default
 
 [back](./)
 
-    > We like to play basketball, with **nets** ...
+> We like to play basketball, with **nets** ...
 
 We are a group of people that organize basketball games in Valencia.
 
