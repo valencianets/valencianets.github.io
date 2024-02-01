@@ -10,7 +10,7 @@ layout: default
 
 We are a group of people that organize basketball games in Valencia.
 
-- All skill levels are welcome.
+- All skill levels welcome.
 - It doesn't matter if you are local or foreign.
 - We communicate in Spanish and English.
 - We are non-profit organization.
@@ -35,19 +35,19 @@ To join our Telegram group, see places where to play in the city and more [click
 
 - **For how long do we play?**
   
-  We usually play for 60 minutes o 90 minutes.
+  We usually play for 60 minutes, 90 minutes or 120 minutes.
 
 - **What is the player limit?**
 
   Up to 15 players if we play for 60 minutes.
   
-  If we play longer, up to 20.
+  If we play for longer, up to 20.
 
 - **How much does it cost?**
 
-  When we reserve at Polideportivo Benimaclet (_indoor court - pay to use_) the price ranges from €3 to €4, depending on the amount of time we book.
+  When we reserve at Polideportivo Benimaclet (_indoor court - pay to use_) the price ranges from €3 to €4, depending on the amount of time we book and the number of players.
   
-  You will have to give the playing fee to the organizer (cash preferred).
+  You will have to give the playing fee to the organizer (cash preferred). Don´t bring big notes, we are not a bank.
   
   When we play in _free public courts_, then there is no cost (it's free!)
 
@@ -57,6 +57,9 @@ To join our Telegram group, see places where to play in the city and more [click
 
   This list is mostly to know who and how many of us will be going, so that we can also book the place for more or less time according to the amount of attendees.
 
+- **¿What should I bring?**
+
+  If you have any, you could bring a ball, an air pump, water and cash to pay forthe reservation (if applicable).
 
 - **Can I organize a game?**
 
@@ -69,5 +72,21 @@ To join our Telegram group, see places where to play in the city and more [click
   On Tuesdays you can call Polideportivo Benimaclet and check the availability for the week. The reservation must be made in person at the reception.
 
   Federated teams and schools that use the place have priority of usage. Monday nights these institutions reserve the time slots for them. Whatever is left, would be available for us.
+
+## Rules group
+
+1. The use of any type of violence, especially but not only verbal and physical, towards people is totally forbidden, even if the one you are referring to is not within the group.
+
+2. Buying and/or selling any kind of products is not allowed in this group. 
+
+3. You must be a resident of the Valencian Community to participate in this service and/or Telegram group/channel.
+
+4. Any kind of spamming towards users in this group is forbidden. Failing to comply with this rule will result in a permanent ban.
+
+5. Sending pornographic material in this group is forbidden. Failing to comply with this rule will result in a permanent ban.
+
+6. The group is made for eighteen and over only. If you are underage, you will be banned permanently. We are not responsible for what happens to you if you do not comply with this rule.
+
+7. If there is a translation error in any part of the rules, the rules written in the Spanish version will always be followed. These rules are subject to change. If any, you accept the possible changes made to it.
 
 * * *

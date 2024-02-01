@@ -1,5 +1,11 @@
 # CHANGELOG.md
 
+## 0.4.0 
+
+### added
+
+- Rules
+
 ## 0.3.0 
 
 ### changed
