@@ -25,7 +25,7 @@ Para sumarte a nustro grupo de Telegram, ver lugares dónde jugar en la ciudad y
 
   Usualmente nos juntamos en el Polideportivo Benimaclet (_bajo techo - de pago_). 
   
-  Sin embargo, a veces, nos juntamos en canchas públicas gratuitas en distintos puntos de la ciudad.
+  Sin embargo, a veces nos juntamos en canchas públicas gratuitas en distintos puntos de la ciudad.
 
 - **¿Cuántas veces por semana?**
   
@@ -35,7 +35,7 @@ Para sumarte a nustro grupo de Telegram, ver lugares dónde jugar en la ciudad y
 
 - **¿Cuánto tiempo jugamos?**
   
-  Solemos jugar 60 minutos o 90 minutos.
+  Solemos jugar 60 minutos, 90 minutos ó 120 minutos.
 
 - **¿Cuál es el límite de jugadores?**
 
@@ -45,9 +45,9 @@ Para sumarte a nustro grupo de Telegram, ver lugares dónde jugar en la ciudad y
 
 - **¿Cuánto cuesta?**
 
-  Cuando reservamos en el Polideportivo Benimaclet (_bajo techo - de pago_) el precio va de €3 a €4, según la cantidad de tiempo que reservemos. 
+  Cuando reservamos en el Polideportivo Benimaclet (_bajo techo - de pago_) el precio varía entre €3 a €4, según la cantidad de tiempo que reservemos y la cantidad de jugadores. 
   
-  Se debe pagar al organizador de la quedada en efectivo preferentemente.
+  Se debe pagar al organizador de la quedada en efectivo preferentemente, no traigas billetes grandes, no somos un banco.
   
   Cuando jugamos en lugares públicos gratuitos no tiene costo.
 
@@ -57,6 +57,9 @@ Para sumarte a nustro grupo de Telegram, ver lugares dónde jugar en la ciudad y
 
   Esta lista es para saber quiénes y cuántos somos, así también podemos reservar más o menos tiempo según cuántos vayamos a jugar!
 
+- **¿Qué debo llevar?**
+
+  Si tienes puedes traer un balón, hinchador (inflador), agua y el dinero para pagar por la reserva (si aplica)
 
 - **¿Puedo organizar una quedada?**
 
@@ -69,5 +72,21 @@ Para sumarte a nustro grupo de Telegram, ver lugares dónde jugar en la ciudad y
   A partir de cada Martes por la mañana se puede llamar al Polideportivo Benimaclet y consultar la disponibilidad para esa semana. La reserva se hace presencialmente.
 
   Los equipos federados y escuelas que utilizan el lugar tienen prioridad de uso. Los Lunes por la noche estas instituciones reservan los horarios para ellos, lo que quede libre es lo que podríamos reservar.
+
+## Normas del grupo
+
+1. El uso de cualquier tipo de violencia, especialmente pero no únicamente la verbal y la física, hacia personas está totalmente prohibida, incluso si a quien te refieres no está dentro del grupo.
+
+1. La compra y/o venta de cualquier tipo de productos/servicios no está permitida en este grupo.
+
+1. Debes de ser residente en la Comunidad Valenciana para participar en este servicio y/o grupo/canal de Telegram.
+
+1. Cualquier tipo de spam hacia los usuarios de este grupo está prohibido. El incumplimiento de esta norma resultará en baneo permanente.
+
+1. El envío de material pornográfico está prohibido. El incumplimiento de esta norma resultará en baneo permanente.
+
+1. El grupo está hecho únicamente para mayores de dieciocho años. Si eres menor de edad, serás baneado permanentemente. No nos hacemos responsables de lo que te pase si no cumples esta norma.
+
+1. Si hubiese un error de traducción en alguna parte de la normativa, siempre se seguirán las normas escritas en la versión en español (de España). Esta normativa está sujeta a cambios. Si los hubiera, aceptas los posibles cambios que se realicen en la misma.
 
 * * *
