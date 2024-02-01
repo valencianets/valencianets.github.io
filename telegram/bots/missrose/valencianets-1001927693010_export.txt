@@ -44,7 +44,7 @@
           "clean": false
         },
         "leave": {
-          "clean": false
+          "clean": true
         },
         "other": {
           "clean": false
@@ -81,7 +81,7 @@
       "kick_after": 300,
       "mute_for": 0,
       "mute_mode": "button",
-      "mute_text": "SOY HUMANO - I'M HUMAN",
+      "mute_text": "➡️ SOY HUMANO - I'M HUMAN ⬅️",
       "should_clean": false,
       "should_goodbye": false,
       "should_kick": true,
@@ -89,7 +89,7 @@
       "should_welcome": true,
       "welcome": {
         "data_id": "",
-        "text": "Hola  👋 *{first}* (`{username}`) te damos la bienvenida a *{chatname}*! \n\n🇪🇸(ES)\n- Por favor corrobora que eres humano completandlo el *CAPTCHA*\n- Para más info acerca del grupo [mira este enlace](https://linktr.ee/valencianets)\n- No te olvides de leer las normas del grupo\n\nPor favor, presentate  ¿puedes contarnos tu nombre, edad y de dónde vienes? 😁\n\n---\n🇬🇧(EN)\n- Please verify you are human by completing the *CAPTCHA*\n- For more info about the group [view this link](https://linktr.ee/valencianets)\n- Don't forget to read the group's rules\n\nPlease introduce yourself by telling us your name, age and where you come from!  😁",
+        "text": "Hola  👋 *{first}* (`{username}`) te damos la bienvenida a *{chatname}*! \n\n🇪🇸(es)\nPara más [info acerca del grupo](https://linktr.ee/valencianets)\n\n❗️Corrobora que eres humano completando el _CAPTCHA_ de abajo\n🔹Por favor presentate contándonos tu *nombre, edad y de dónde vienes*!\n\n\n🇬🇧(en)\nFor more [info about the group](https://linktr.ee/valencianets)\n\n❗️Verify you are human by completing the _CAPTCHA_ below\n🔹Please introduce yourself by telling us your *name, age and where you come from*!",
         "type": 0
       }
     },
