@@ -1,5 +1,11 @@
 # CHANGELOG.md
 
+## 0.5.0 
+
+### added
+
+- telegram bots configuration
+
 ## 0.4.0 
 
 ### added
