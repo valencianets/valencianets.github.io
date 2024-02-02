@@ -1,5 +1,17 @@
 # CHANGELOG.md
 
+## 0.6.0 
+
+### added
+
+- telegram combot configuration
+- new rule entry
+- table of content
+
+### changed
+
+- telegram missrose bot configuration
+
 ## 0.5.1 
 
 ### changed

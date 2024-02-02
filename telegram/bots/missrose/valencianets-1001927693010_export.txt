@@ -81,7 +81,7 @@
       "kick_after": 300,
       "mute_for": 0,
       "mute_mode": "button",
-      "mute_text": "➡️ SOY HUMANO - I'M HUMAN ⬅️",
+      "mute_text": "➡️ *SOY HUMANO - I'M HUMAN* ⬅️",
       "should_clean": false,
       "should_goodbye": false,
       "should_kick": true,
@@ -115,7 +115,7 @@
         },
         "bot": {
           "locked": true,
-          "reason": "Sólo *admins* pueden añadir bots.\nOnly *admins* are allowed to add bots."
+          "reason": "❗️Sólo *admins* pueden añadir bots.\n❗️Only *admins* are allowed to add bots."
         },
         "button": {
           "locked": false,
