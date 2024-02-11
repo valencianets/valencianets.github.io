@@ -1,12 +1,26 @@
 # CHANGELOG.md
 
+## 0.7.0 
+
+### added
+
+- telegram grouphelp bot configuration
+
+### fixed
+
+- grammar errors
+
+### changed
+
+- telegram missrose bot configuration
+
 ## 0.6.0 
 
 ### added
 
 - telegram combot configuration
 - new rule entry
-- table of content
+- table of contents
 
 ### changed
 
