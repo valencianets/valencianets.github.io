@@ -12,7 +12,7 @@ Somos un grupo de personas que organizamos quedadas para jugar baloncesto en Val
 
 - Todos los niveles son bienvenidos. 
 - No importa si eres local o extranjero.
-- Nos comunicammos en Español e Inglés.
+- Nos comunicamos en Español e Inglés.
 - Somos una organización sin fines de lucro.
 
 
@@ -35,7 +35,7 @@ Somos un grupo de personas que organizamos quedadas para jugar baloncesto en Val
 <a id="more-info"></a>
 ## Más información
 
-Para sumarte a nustro grupo de Telegram, ver lugares dónde jugar en la ciudad y más [pincha en este enlace](https://linktr.ee/valencianets)
+Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad y más [pincha en este enlace](https://linktr.ee/valencianets)
 
 <a id="faqs"></a>
 ## Preguntas Frecuentes
@@ -110,13 +110,13 @@ Para sumarte a nustro grupo de Telegram, ver lugares dónde jugar en la ciudad y
 
 1. Debes de ser residente en la Comunidad Valenciana para participar en este servicio y/o grupo/canal de Telegram.
 
-1. Cualquier tipo de spam hacia los usuarios de este grupo está prohibido. El incumplimiento de esta norma resultará en baneo permanente.
+1. Cualquier tipo de spam hacia los usuarios de este grupo está prohibido. El incumplimiento de esta norma resultará en expulsión permanente.
 
-1. El envío de material pornográfico está prohibido. El incumplimiento de esta norma resultará en baneo permanente.
+1. El envío de material pornográfico está prohibido. El incumplimiento de esta norma resultará en expulsión permanente.
 
-1. El grupo está hecho únicamente para mayores de dieciocho años. Si eres menor de edad, serás baneado permanentemente. No nos hacemos responsables de lo que te pase si no cumples esta norma.
+1. El grupo está hecho únicamente para mayores de dieciocho años. Si eres menor de edad, serás expulsado permanentemente. No nos hacemos responsables de lo que te pase si no cumples esta norma.
 
-1. No está permitido añadir bots al grupo de Telegram. El incumplimiento de esta norma resultará en baneo permanente.
+1. No está permitido añadir bots al grupo de Telegram. El incumplimiento de esta norma resultará en expulsión permanente.
 
 1. Si hubiese un error de traducción en alguna parte de la normativa, siempre se seguirán las normas escritas en la versión en español (de España). Esta normativa está sujeta a cambios. Si los hubiera, aceptas los posibles cambios que se realicen en la misma.
 
