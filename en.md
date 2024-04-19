@@ -4,9 +4,7 @@ layout: default
 
 # Welcome to Valencia Nets
 
-[back](./)
-
-> We like to play basketball, with **nets** ...
+[Spanish version](./)
 
 We are a group of people that organize basketball games in Valencia.
 
@@ -26,6 +24,7 @@ We are a group of people that organize basketball games in Valencia.
   - [How do I sign up to play?](#how-to)
   - [What should I bring?](#bring)
   - [Can I organize a game?](#can-i)
+  - [What if I signed up for a game but cannot attend anymore?](#no-show)
   - [Polideportivo Benimaclet - how far in advance can I reserve?](#pol-ben-booking)
 - [Group´s rules ](#rules)
 
@@ -61,9 +60,7 @@ To join our Telegram group, see places where to play in the city and more [click
 <a id="how-many"></a>
 - **What is the player limit?**
 
-  Up to 15 players if we play for 60 minutes.
-  
-  If we play for longer, up to 20.
+  Usually, up to 15 players. However, depending on the court and hours booked, it could be more.
 
 <a id="how-much"></a>
 - **How much does it cost?**
@@ -77,7 +74,7 @@ To join our Telegram group, see places where to play in the city and more [click
 <a id="how-to"></a>
 - **How do I sign up to play?**
 
-  In our [Telegram group](https://linktr.ee/valencianets) we make a list of a maximum of 20 players, if there is free spot, put your name on the list. Then head to indicated place when the time comes.
+  In our [Telegram group](https://linktr.ee/valencianets) when we organize a new game, each member joins individually by sending a message showing the intention to play. Then, we make a list of players (usually 20 players max), if there is free spot, put your name on the list. Then head to indicated place when the time comes.
 
   This list is mostly to know who and how many of us will be going, so that we can also book the place for more or less time according to the amount of attendees.
 
@@ -90,6 +87,13 @@ To join our Telegram group, see places where to play in the city and more [click
 - **Can I organize a game?**
 
   Any member of the group can organize a game whenever they wish.
+
+<a id="no-show"></a>
+- **What if I signed up for a game but cannot attend anymore?**
+
+  If you sign up for a game but cannot attend anymore, you must remove your name from the list with enough time so that someone else can participate instead.
+
+  If you don't remove your name from the list and you don't show up to play, you will receive a warning. If you receive three no-show warnings, you will be banned from the group.
 
 <a id="pol-ben-booking"></a>
 - **Polideportivo Benimaclet - how far in advance can I reserve?**
@@ -113,7 +117,7 @@ To join our Telegram group, see places where to play in the city and more [click
 
 1. Sending pornographic material in this group is forbidden. Failing to comply with this rule will result in a permanent ban.
 
-1. The group is made for eighteen and over only. If you are underage, you will be banned permanently. We are not responsible for what happens to you if you do not comply with this rule.
+1. The group is for people of age eighteen and over only (>= 18). If you are underage, you will be banned permanently. We are not responsible for what happens to you if you do not comply with this rule.
 
 1. Adding bots to the Telegram group is not allowed. Failing to comply with this rule will result in a permanent ban..
 
