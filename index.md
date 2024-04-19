@@ -93,9 +93,9 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 <a id="no-show"></a>
 - **¿Qué pasa si me apunto pero no puedo ir?**
 
-  Si te apuntas a un partido per no puedes ir, debes quitar tu nombre de la lista con tiempo suficiente para que otra persona pueda participar en tu lugar.
+  Si te apuntas a un partido pero no puedes ir, debes quitar tu nombre de la lista con tiempo suficiente para que otra persona pueda participar en tu lugar.
 
-  Si no quitas tu nombre de la lista y no vas el día del partido, recibirás una advertencia. Si recibes tres advertencias por no aparecer, serás eliminado del grupo.
+  Cuando es un partido donde debes pagar por la reserva (usualmente en canchas techadas), si no quitas tu nombre de la lista y no vas el día del partido, recibirás una advertencia. Si recibes tres advertencias por no aparecer, serás eliminado del grupo.
 
 
 <a id="pol-ben-booking"></a>
