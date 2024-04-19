@@ -93,7 +93,7 @@ To join our Telegram group, see places where to play in the city and more [click
 
   If you sign up for a game but cannot attend anymore, you must remove your name from the list with enough time so that someone else can participate instead.
 
-  If you don't remove your name from the list and you don't show up to play, you will receive a warning. If you receive three no-show warnings, you will be banned from the group.
+  When the game has a payment fee (usually on indoor courts), if you don't remove your name from the list and you don't show up to play, you will receive a warning. If you receive three no-show warnings, you will be banned from the group.
 
 <a id="pol-ben-booking"></a>
 - **Polideportivo Benimaclet - how far in advance can I reserve?**
