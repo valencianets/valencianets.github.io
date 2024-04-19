@@ -1,5 +1,17 @@
 # CHANGELOG.md
 
+## 0.8.0 
+
+### added
+
+- no-show and warning comments
+
+### changed
+
+- renamed english file
+- minor wording updates
+
+
 ## 0.7.0 
 
 ### added

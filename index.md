@@ -4,9 +4,7 @@ layout: default
 
 # Bienvenidos a Valencia Nets
 
-[English version](./english_version.html).
-
-> Nos gusta jugar baloncesto, con **redes** ...
+[English version](./en.html).
 
 Somos un grupo de personas que organizamos quedadas para jugar baloncesto en Valencia. 
 
@@ -27,6 +25,7 @@ Somos un grupo de personas que organizamos quedadas para jugar baloncesto en Val
   - [¿Cómo me apunto?](#how-to)
   - [¿Qué debo llevar?](#bring)
   - [¿Puedo organizar un partido?](#can-i)
+  - [¿Qué pasa si me apunto pero no puedo ir?](#no-show)
   - [Polideportivo Benimaclet - ¿con cuánta antelación puedo reservar?](#pol-ben-booking)
 - [Normas del grupo](#rules)
 
@@ -62,9 +61,8 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 <a id="how-many"></a>
 - **¿Cuál es el límite de jugadores?**
 
-  Hasta 15 jugadores si jugamos 60 minutos. 
+  Usualmente, hasta 15 jugadores. Pero según la cancha y el tiempo reservado puede ser más.
   
-  Si jugamos por más tiempo, hasta 20.
 
 <a id="how-much"></a>
 - **¿Cuánto cuesta?**
@@ -78,7 +76,7 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 <a id="how-to"></a>
 - **¿Cómo me apunto?**
 
-  En el [grupo de Telegram](https://linktr.ee/valencianets) hacemos una lista de máximo 20 jugadores, si hay lugar te apuntas y vas a la hora y lugar indicados.
+  En el [grupo de Telegram](https://linktr.ee/valencianets) cuando organizamos un juego cada miembro se apunta individualmente enviando un mensaje mostrando la intención de participar. Luego hacemos una lista de jugadores (usualmente máximo 20), si hay lugar te apuntas y vas a la hora y lugar indicados.
 
   Esta lista es para saber quiénes y cuántos somos, así también podemos reservar más o menos tiempo según cuántos vayamos a jugar!
 
@@ -91,6 +89,14 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 - **¿Puedo organizar un partido?**
 
   Cualquier miembro del grupo puede organizar un partido o una quedada cuando lo desee.
+
+<a id="no-show"></a>
+- **¿Qué pasa si me apunto pero no puedo ir?**
+
+  Si te apuntas a un partido per no puedes ir, debes quitar tu nombre de la lista con tiempo suficiente para que otra persona pueda participar en tu lugar.
+
+  Si no quitas tu nombre de la lista y no vas el día del partido, recibirás una advertencia. Si recibes tres advertencias por no aparecer, serás eliminado del grupo.
+
 
 <a id="pol-ben-booking"></a>
 - **Polideportivo Benimaclet - ¿con cuánta antelación puedo reservar?**
@@ -114,7 +120,7 @@ Para sumarte a nuestro grupo de Telegram, ver lugares dónde jugar en la ciudad 
 
 1. El envío de material pornográfico está prohibido. El incumplimiento de esta norma resultará en expulsión permanente.
 
-1. El grupo está hecho únicamente para mayores de dieciocho años. Si eres menor de edad, serás expulsado permanentemente. No nos hacemos responsables de lo que te pase si no cumples esta norma.
+1. El grupo está hecho únicamente para mayores de dieciocho años (>= 18). Si eres menor de edad, serás expulsado permanentemente. No nos hacemos responsables de lo que te pase si no cumples esta norma.
 
 1. No está permitido añadir bots al grupo de Telegram. El incumplimiento de esta norma resultará en expulsión permanente.
 
